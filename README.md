@@ -12,5 +12,6 @@ rep "RREQ" log > log2
 grep "FWDPKT" log > log3
 
 
+Due to restriction of file size, I have only uploaded the files which are needed to make these changes affective
 It  will log reuiqred data, simply analyse it and you will find every thing :)
 
